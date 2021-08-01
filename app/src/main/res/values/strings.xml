@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tivix WeatherApp</string>
+    <string name="morning">Morning</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="humidity">Humidity</string>
+    <string name="stats">Statistic</string>
+    <string name="temp">Temperature</string>
+
+
+
+
+</resources>
